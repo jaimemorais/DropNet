@@ -6,7 +6,8 @@ using System;
 namespace DropNet.Tests
 {
     /// <summary>
-    /// Summary description for UnitTest1
+    /// Summary description for UnitTest1 
+    /// jaime teste
     /// </summary>
     [TestClass]
     public class FileSyncTests
